@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Framework_A</id>
+    <version>1.0.0.0</version>
+    <title>Framework_A</title>
+    <authors>sanjay saini</authors>
+    <owners>sanjay saini</owners>
+    <licenseUrl>https://github.com/sanjaysaini2000/UnitConversion.git</licenseUrl>
+    <projectUrl>https://github.com/sanjaysaini2000/UnitConversion.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is Framework_A DDL.</description>
+    <releaseNotes>First release of the package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Unit Convertion</tags>
+  </metadata>
+<files>
+<file src="bin\Release\Framework_A.dll" target="lib\net452" />
+</files>
+</package>
