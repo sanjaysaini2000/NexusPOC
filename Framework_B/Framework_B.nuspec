@@ -14,7 +14,7 @@
     <copyright>Copyright 2016</copyright>
     <tags>Unit Convertion</tags>
     <dependencies>
-      <dependency id="Framework_A" version="1.0.0.0" />
+      <dependency id="Framework_A" version="$version$" />
     </dependencies>
   </metadata>
 </package>
